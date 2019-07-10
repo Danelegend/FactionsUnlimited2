@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/worldedit-bukkit-6.1.3.jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/PermissionsEx-1.23.4 (4).jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/PlayerVaults (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dane Urban/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dane Urban/Downloads/dynmap-2.5.jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/mcMMO.jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/Vault-1.4.1.jar"/>
+	<classpathentry kind="lib" path="S:/King Final/[KingMC] Factions Setup/[KingMC] Factions Setup/plugins/EssentialsX-2.16.0.26.jar"/>
+	<classpathentry kind="lib" path="S:/King Final/[KingMC] Factions Setup/[KingMC] Factions Setup/plugins/FactionsTop (6).jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/my.jar"/>
+	<classpathentry kind="lib" path="S:/EraPvP/plugins/koth.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
